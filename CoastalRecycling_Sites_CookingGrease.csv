@@ -1,23 +1,111 @@
 OBJECTID,Address,City,State,Zip Code,Location,Hours of Operation,Contact,Services Offered,More Information,Website,County,Latitude,Longitude
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+5,4725 Moffett Road,Mobile,AL,36618,MAWSS Offices at Park Forest Plaza,"Monday - Friday
+8:00 AM to 4:30 PM",,Oil/grease container drop-off,,https://www.itseasytobeungreasy.com/home.html,Mobile,30.71857226339290,-88.15069327116440
+6,4851 Museum Drive,Mobile,AL,36608,City of Mobile Recycling Center,"Monday - Friday
+7:00 AM to 5:00 PM
+
+Saturday - Sunday
+7:00 AM to 4:00 PM",,"Paper
+Cardboard
+Magazines & Catalogues
+Newspaper
+Cans & Lids
+Aluminum / Tin / Steel
+Metal Pots & Pans
+Plastic Milk Jugs
+Foil Baking Pans
+Dry Pet Food Bags
+Pizza Boxes
+Plastics #1-7
+Plastic Bottles
+Cooking Oil/Grease Containers",,https://www.cityofmobile.gov/public-works/recycling/,Mobile,30.70342417262290,-88.15429255369730
+7,308 Pinehill Drive,Mobile,AL,36606,City of Mobile Recycling Center,"Monday - Friday
+7:00 AM to 5:00 PM
+
+Saturday - Sunday
+7:00 AM to 4:00 PM",,"Paper
+Cardboard
+Magazines & Catalogues
+Newspaper
+Cans & Lids
+Aluminum / Tin / Steel
+Metal Pots & Pans
+Plastic Milk Jugs
+Foil Baking Pans
+Dry Pet Food Bags
+Pizza Boxes
+Plastics #1-7
+Plastic Bottles
+Cooking Oil/Grease Containers",,https://www.cityofmobile.gov/public-works/recycling/,Mobile,30.67631792433590,-88.09764578978860
+8,1750 Dauphin Island Parkway,Mobile,AL,36605,City of Mobile Recycling Center,"Monday - Friday
+7:00 AM to 5:00 PM
+
+Saturday - Sunday
+7:00 AM to 4:00 PM",,"Paper
+Cardboard
+Magazines & Catalogues
+Newspaper
+Cans & Lids
+Aluminum / Tin / Steel
+Metal Pots & Pans
+Plastic Milk Jugs
+Foil Baking Pans
+Dry Pet Food Bags
+Pizza Boxes
+Plastics #1-7
+Plastic Bottles
+Cooking Oil/Grease Containers",,https://www.cityofmobile.gov/public-works/recycling/,Mobile,30.63541927686160,-88.08937611677660
+9,7450 Hitt Road,Mobile,AL,36695,Mobile County Recycling Center,"Monday – Saturday
+7:00 AM – 5:30 PM
+
+Sunday
+10:00 AM to 5:30 PM",,"Paper
+Paperboard
+Cardboard
+Plastics #1-7
+Glass
+Aluminum
+Steel
+Plastic bags
+Clothing
+Flat Screen TVs/Monitors
+Electronics (computers, printers, etc.)
+Small Appliances
+Cooking Oil/Grease Containers",,https://www.mobilerecycles.com/,Mobile,30.66959043417530,-88.21702614561120
+10,2992 Springhill Avenue,Mobile,AL,36607,Greer's CashSaver,"Monday - Saturday
+7:00 AM to 8:00 PM
+
+Sunday
+7:00 AM to 7:00 PM",,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.70076837759020,-88.11095977629450
+11,670 S. Broad Street,Mobile,AL,36603,Greer's CashSaver,"Monday - Saturday
+7:00 AM to 7:00 PM
+
+Sunday
+7:00 AM to 6:00 PM",,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.67388085672140,-88.05573160328210
+12,6350 Mccrary Road Extension,Semmes,AL,36575,Greer's CashSaver,"Monday - Saturday
+7:00 AM to 8:00 PM
+
+Sunday
+7:00 AM to 8:00 PM",,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.82367776887110,-88.25865264560690
+13,1360 Navco Road,Mobile,AL,36605,Piggly Wiggly / Food 4 Less,"Monday - Sunday
+8:00 AM to 8:00 PM",,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.64664594167750,-88.10260210328290
+14,6900 Airport Boulevard,Mobile,AL,36608,Circle K,Open 24 hours daily,,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.68373408337510,-88.20139696095290
+15,3449 Hillcrest Road,Mobile,AL,36695,Circle K,Open 24 hours daily,,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.61869229936220,-88.19058893581650
+16,3500 Knollwood Drive,Mobile,AL,36693,Circle K,Open 24 hours daily,,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.61805513642640,-88.16720753211920
+17,1395 N. University Boulevard,Mobile,AL,36608,Circle K,Open 24 hours daily,,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.71962269580740,-88.16372587259670
+18,4659 Airport Boulevard,Mobile,AL,36608,Circle K,Open 24 hours daily,,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.67579571816810,-88.17076321862410
+19,9875 Airport Boulevard,Mobile,AL,36608,Circle K,Open 24 hours daily,,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.67149050131250,-88.27581756677560
+20,8750 Cottage Hill Road,Mobile,AL,36695,Circle K,Open 24 hours daily,,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.64052182362550,-88.24756794746070
+21,7790 Moffett Road,Mobile,AL,36618,Circle K,Open 24 hours daily,,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.76272583975710,-88.22524419745720
+22,2212 Dauphin Island Pkwy,Mobile,AL,36605,Wild Wing Station,"Monday - Thursday; Saturday
+11:00 AM to 9:00 PM
+
+Friday
+11:00 AM to 9:30 PM
+
+Sunday
+Closed",,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.62668148359870,-88.08930231862550
+23,4362 Government Boulevard,Mobile,AL,36693,Citgo,Open 24 hours daily,,Oil/grease container drop-off,,https://www.mawss.com/learning-center/grease-recycling-program/,Mobile,30.62372288980890,-88.15391557444800
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
