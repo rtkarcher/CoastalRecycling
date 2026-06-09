@@ -3,4 +3,4 @@ Recycling centers and household waste drop-off locations throughout lower Alabam
 
 This project is in active development and is hosted via ArcGIS Online at the following URL:
 
-https://arcg.is/1qL8PP5
+https://www.arcgis.com/home/item.html?id=0a79557db6ff463a8e454e837301e676
